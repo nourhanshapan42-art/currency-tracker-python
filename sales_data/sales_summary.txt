@@ -1,8 +1,0 @@
-=== SALES SUMMARY REPORT ===
-Total Revenue: $5395.0
-Most Sold Product: Mouse (15 units)
-Highst Revenue Product: Laptop ($3600.0)
-
-Revenue by Category:
-- Electronics: $4875.0
-- Clothing: $520.0
